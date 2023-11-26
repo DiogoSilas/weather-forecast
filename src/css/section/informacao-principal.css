@@ -1,0 +1,16 @@
+.informacao-principal {
+    margin: 30px;
+}
+
+.informacao-principal h1 {
+    font-size: 18px;
+}
+
+.informacao-principal .temperatura {
+    font-size: 68px;
+    margin: 20px 0px;
+}
+
+.informacao-principal .condicao {
+    font-size: 20px;
+}

@@ -1,0 +1,16 @@
+.informacao-secundaria {
+    background-color: #fff;
+    color: #000;
+    padding: 20px 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.informacao-secundaria .humidade,
+.informacao-secundaria .velocidade-do-vento {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+

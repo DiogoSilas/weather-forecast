@@ -1,0 +1,10 @@
+.card-container {
+    background-color: #1f2949;
+    color: #fff;
+    max-width: 330px;
+    text-align: center;
+    background: url("../../images/background.png") no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    box-shadow: rgb(0, 0, 0, .1) 0 10px 50px;
+}
