@@ -1,5 +1,8 @@
 body {
-    background-color: #729EBA;
+    background: #729EBA url(../images/bg-container.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 15px;
     font-family: 'Red Hat Display', sans-serif;
     display: flex;
     justify-content: center;

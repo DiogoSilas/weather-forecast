@@ -6,6 +6,7 @@
 }
 
 .busca input {
+    width: 100%;
     background-color: #0a1435;
     padding: 10px;
     border-radius: 5px;
