@@ -1,11 +1,20 @@
 body {
-    background: #729EBA url(../images/bg-container.jpg) no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-    padding: 15px;
-    font-family: 'Red Hat Display', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #729EBA url(../images/bg-container.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    animation: moveBackground 70s linear infinite;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 15px;
     height: 100vh;
+}
+
+@keyframes moveBackground {
+    from {
+        background-position: 10%;
+    }to {
+        background-position: 90%;
+    }
 }

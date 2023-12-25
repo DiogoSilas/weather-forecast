@@ -5,7 +5,7 @@ Desenvolvimento de um sistema para consultar a previsão do tempo utilizando. Es
 Ao inserir o nome da cidade no sistema, o usuário terá acesso imediato às informações sobre temperatura, umidade e velocidade do vento.
 </p>
 
-<a href="https://diogosilas.github.io/weather-forecast/" target="_blank"><img src="./src/images/foto-readme-md.png" alt="Weather Forecast"></a>
+<a href="https://diogosilas.github.io/weather-forecast/" target="_blank"><img src="./src/images/readme-img.png" alt="Weather Forecast"></a>
 
 ## Tecnologias Utilizadas
 - JavaScript - JS é uma linguagem de programação amplamente utilizada para desenvolvimento web. Versátil e dinâmica, executa no navegador do usuário,
